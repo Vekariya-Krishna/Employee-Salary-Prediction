@@ -39,10 +39,6 @@ How to Run the Streamlit App
 
 Clone the repository:
 
-Bash
-git clone https://github.com/jaykiran-kotthakota/Employee-salary-prediction
-
-
 cd Employee Salary Prediction
 
 Install dependencies:
@@ -59,7 +55,7 @@ streamlit run app.py
 
 ## About Me
 
-LinkedIn: https://www.linkedin.com/in/jaykiran-kotthakota-787525154/
+LinkedIn:https://www.linkedin.com/in/dte-gecbh-vekariya-krishna
 
 
-Gmail: kotthakotajaykiran@gmail.com
+Gmail: vekariya.krishna768@gmail.com
